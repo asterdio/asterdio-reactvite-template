@@ -16,7 +16,7 @@
 		"@ant-design/charts": "^1.1.19",
 		"@types/jsonwebtoken": "^9.0.2",
 		"antd": "^4.16.2",
-		"axios": "^0.21.1",
+		"axios": "^0.21.2",
 		"history": "^5.0.0",
 		"js-cookie": "^3.0.5",
 		"jsonwebtoken": "^9.0.0",
